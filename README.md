@@ -14,12 +14,6 @@ open directory in text editor (i.e. Atom)
 Open .html file in web browser to see local changes, etc.
 ```
 
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-
 ## Authors
 
 * **Casey Antoine** - *Initial work* - [Github](https://github.com/CaseyAntoine)
