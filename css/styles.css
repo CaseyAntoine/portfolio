@@ -99,6 +99,15 @@ ul {
   border-radius: 20px;
 }
 
+span:hover{
+  font-weight: bold;
+}
+
+span.yay:hover{
+  font-size: 15px;
+  color:blue;
+}
+
 
 /*Footer elements*/
 footer{
@@ -121,10 +130,10 @@ a.social{
   transition: all .5s;
 }
 
-a.twitter{
-  background-image: url();
+/*a.twitter{
+  background-image: url(img/twitter.svg);
 }
 
 a.github{
-  background-image: url();
-}
+  background-image: url(img/github.svg);
+}*/
