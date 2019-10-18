@@ -37,6 +37,7 @@
 
 header.banner {
   text-align:center;
+  background: url('img/travel-oregon-haystack.jpg') no-repeat top center;
   background-color: teal;
   padding: 3px;
   margin-bottom: 5px;
