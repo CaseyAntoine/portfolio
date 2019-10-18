@@ -4,14 +4,14 @@ This project is a week one project for Epicodus bootcamp.
 
 ## Getting Started
 
-
-
-### Prerequisites
-
-What things you need to install the software and how to install them
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ```
-Give examples
+git clone repo
+
+open directory in text editor (i.e. Atom)
+
+Open .html file in web browser to see local changes, etc.
 ```
 
 
