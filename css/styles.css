@@ -58,11 +58,14 @@ header.banner {
   border: 1px solid grey;
   border-radius: 10px;
   margin-left: auto;
+  box-shadow: 2px 2px 15px #222;
+  background-color: white;
 }
 
 
 /*Footer elements*/
 footer{
   text-align: center;
-  margin: 15px 10px;
+  margin: 15px;
+  width:100%;
 }
