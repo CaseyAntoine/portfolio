@@ -48,6 +48,10 @@ header.banner {
 
 /*Body Elements*/
 
+.row {
+  display: flex;
+}
+
 .card {
   /*border: 1px solid grey;
   border-radius: 10px;
