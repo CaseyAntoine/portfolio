@@ -1,20 +1,37 @@
 /*Top Nav*/
 .main-nav{
-  display: flex;
   background-color: black;
   min-height: 30px;
   padding: 10px;
   position: fixed;
-  text-align: center;
+  width: 100%;
 
 }
-.nav li{
-  display: inline-block;
-  font-weight: 700;
+.nav{
   display: flex;
+  justify-content: space-around;
+  font-weight: 700;
+  list-style-type: none;
+  margin: 0 auto;
+}
+
+#name {
+  display: block;
+  margin-right: auto;
+  color: white;
 }
 
 
 header {
   text-align:center;
+}
+
+#profile_pic{
+  margin-top: 100px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 2px solid grey;
+  transition: all .5s;
+
 }
