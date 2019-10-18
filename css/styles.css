@@ -1,5 +1,5 @@
 /*Top Nav*/
-.main-nav{
+nav.navbar{
   background-color: black;
   min-height: 30px;
   padding: 10px;
@@ -19,6 +19,7 @@
   display: inline-block;
   margin-right: auto;
   color: white;
+  font-size: 25px;
 }
 
 /* Header elements*/
