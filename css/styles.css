@@ -1,3 +1,7 @@
+body{
+  background-color: #f7f5f0;
+}
+
 /*Top Nav*/
 nav.navbar{
   background-color: black;
@@ -48,6 +52,12 @@ header.banner {
   color: #eee;
 }
 
+.jumbotron {
+  background-color: grey;
+  color: lightgrey;
+}
+
+
 /*Body Elements*/
 
 .row {
@@ -55,11 +65,19 @@ header.banner {
 }
 
 .card {
-  border: 1px solid grey;
-  border-radius: 10px;
-  margin-left: auto;
-  box-shadow: 2px 2px 15px #222;
-  background-color: white;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 20px 40px 40px;
+  max-width: 600px;
+  text-align: left;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  transition: all .5s;
+  color: #222;
+}
+
+.card:hover{
+  border-color: lightblue;
 }
 
 
