@@ -21,11 +21,7 @@
   color: white;
 }
 
-
-header {
-  text-align:center;
-}
-
+/* Header elements*/
 #profile_pic{
   margin-top: 100px;
   width: 150px;
@@ -36,6 +32,21 @@ header {
 
 }
 
+header.banner {
+  text-align:center;
+  background-color: teal;
+  padding: 3px;
+  margin-bottom: 2px;
+}
+
+.banner h1 {
+  color: #eee;
+  
+}
+
+
+/*Footer elements*/
 footer{
   text-align: center;
+  margin-top: 15px;
 }
