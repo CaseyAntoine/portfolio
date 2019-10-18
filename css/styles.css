@@ -42,7 +42,8 @@ nav.navbar{
 
 header.banner {
   text-align:center;
-  background: url('img/travel-oregon-haystack.jpg') no-repeat top center;
+  /*background: url('img/travel-oregon-haystack.jpg') no-repeat top center;*/
+  width:100%;
   background-color: teal;
   padding: 3px;
   margin-bottom: 5px;
