@@ -24,24 +24,34 @@
 /* Header elements*/
 #profile_pic{
   margin-top: 100px;
-  width: 150px;
-  height: 150px;
+  width: 130px;
+  height: 130px;
   border-radius: 50%;
-  border: 2px solid grey;
+  border: 3px solid grey;
   transition: all .5s;
+}
 
+#profile_pic:hover {
+  transform: scale(1.3) rotate(25deg);
 }
 
 header.banner {
   text-align:center;
   background-color: teal;
   padding: 3px;
-  margin-bottom: 2px;
+  margin-bottom: 5px;
 }
 
 .banner h1 {
   color: #eee;
-  
+}
+
+/*Body Elements*/
+
+.card {
+  /*border: 1px solid grey;
+  border-radius: 10px;
+  margin-left: auto;*/
 }
 
 
