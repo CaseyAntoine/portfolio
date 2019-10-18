@@ -16,7 +16,7 @@
 }
 
 #name {
-  display: block;
+  display: inline-block;
   margin-right: auto;
   color: white;
 }
@@ -54,14 +54,14 @@ header.banner {
 }
 
 .card {
-  /*border: 1px solid grey;
+  border: 1px solid grey;
   border-radius: 10px;
-  margin-left: auto;*/
+  margin-left: auto;
 }
 
 
 /*Footer elements*/
 footer{
   text-align: center;
-  margin-top: 15px;
+  margin: 15px 10px;
 }
