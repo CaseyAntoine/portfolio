@@ -21,7 +21,11 @@ Open .html file in web browser to see local changes, etc.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License
+
+Copyright (c) 2019 **Casey Antoine**
+
+
 
 ## Acknowledgments
 
