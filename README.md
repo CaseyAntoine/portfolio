@@ -4,7 +4,7 @@ This project is a week one project for Epicodus bootcamp.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Open project using [gh-pages](https://CaseyAntoine.github.io/portfolio) to view site in browser or clone repository to local system to run and edit code.
 
 ```
 git clone repo
